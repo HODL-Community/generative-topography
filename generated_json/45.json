@@ -1,0 +1,23 @@
+{
+    "name": "Topo-Generative Dreams #45",
+    "description": "A generative art collection by @SnapsNoCaps displaying the beauty of TOPOGRAPHY & perlin noise.",
+    "image": "45.png",
+    "attributes": [
+        {
+            "trait_type": "Perlin Seed",
+            "value": 965915
+        },
+        {
+            "trait_type": "Colour Seed",
+            "value": 670522
+        },
+        {
+            "trait_type": "scale",
+            "value": 5.981396621804115e-05
+        },
+        {
+            "trait_type": "Contour Levels",
+            "value": 59
+        }
+    ]
+}
