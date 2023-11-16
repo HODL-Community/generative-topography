@@ -1,7 +1,7 @@
 {
     "name": "Topo-Generative Dreams #82",
     "description": "A generative art collection by @SnapsNoCaps displaying the beauty of TOPOGRAPHY & perlin noise.",
-    https://raw.githubusercontent.com/HODL-Community/generative-topography/main/generated_images/82.png",
+    "image": "https://raw.githubusercontent.com/HODL-Community/generative-topography/main/generated_images/82.png",
     "attributes": [
         {
             "trait_type": "Perlin Seed",
